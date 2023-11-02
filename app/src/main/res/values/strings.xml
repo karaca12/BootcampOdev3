@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trading</string>
+    <string name="title">BTCUSD</string>
+    <string name="appTitle">Trading</string>
+    <string name="btcPrc">$ 34256.38</string>
+    <string name="button">Click here to learn more</string>
+    <string name="daily">Daily</string>
+    <string name="dailyCost">1.22 %</string>
+    <string name="weekly">Weekly</string>
+    <string name="weeklyCost">38.76 %</string>
+    <string name="monthly">Monthly</string>
+    <string name="monthlyCost">23.87 %</string>
+</resources>
